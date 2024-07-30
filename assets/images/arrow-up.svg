@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.549" height="39.549" viewBox="0 0 39.549 39.549">
+  <g id="arrow-up" transform="translate(0 0)">
+    <g id="Group_346462" data-name="Group 346462" transform="translate(9.888 4.394)">
+      <path id="Vector" d="M20.005,10,10,0,0,10" transform="matrix(0.719, 0.695, -0.695, 0.719, 12.265, 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M0,27.734V0" transform="matrix(0.719, 0.695, -0.695, 0.719, 19.266, 7.151)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="Vector-3" data-name="Vector" d="M0,0H39.549V39.549H0Z" transform="translate(39.549 39.549) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>
