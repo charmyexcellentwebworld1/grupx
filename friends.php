@@ -35,8 +35,8 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="chat border borderBlack bg-transparent rounded-circle"><img src="assets/images/message.svg" alt=""></button>
-                                    <button type="button" class="btn bg-transparent w-100">Block</button>
+                                    <button type="button" class="chat border borderBlack bgWhite rounded-circle"><img src="assets/images/message.svg" alt=""></button>
+                                    <button type="button" class="btn w-100">Block</button>
                                  </div>
                               </td>
                            </tr>
@@ -51,8 +51,8 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="chat border borderBlack bg-transparent rounded-circle"><img src="assets/images/message.svg" alt=""></button>
-                                    <button type="button" class="btn bg-transparent w-100">Block</button>
+                                    <button type="button" class="chat border borderBlack bgWhite rounded-circle"><img src="assets/images/message.svg" alt=""></button>
+                                    <button type="button" class="btn w-100">Block</button>
                                  </div>
                               </td>
                            </tr>
@@ -67,8 +67,8 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="chat border borderBlack bg-transparent rounded-circle"><img src="assets/images/message.svg" alt=""></button>
-                                    <button type="button" class="btn bg-transparent w-100">Block</button>
+                                    <button type="button" class="chat border borderBlack bgWhite rounded-circle"><img src="assets/images/message.svg" alt=""></button>
+                                    <button type="button" class="btn w-100">Block</button>
                                  </div>
                               </td>
                            </tr>
@@ -83,7 +83,7 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="btn unblock bg-transparent w-100">Unblock</button>
+                                    <button type="button" class="btn unblock w-100">Unblock</button>
                                  </div>
                               </td>
                            </tr>
@@ -98,8 +98,8 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="chat border borderBlack bg-transparent rounded-circle"><img src="assets/images/message.svg" alt=""></button>
-                                    <button type="button" class="btn bg-transparent w-100">Block</button>
+                                    <button type="button" class="chat border borderBlack bgWhite rounded-circle"><img src="assets/images/message.svg" alt=""></button>
+                                    <button type="button" class="btn w-100">Block</button>
                                  </div>
                               </td>
                            </tr>
@@ -114,8 +114,8 @@
                               </td>
                               <td colspan="2" class="py-3">
                                  <div class="btn-group w-100 d-flex align-items-center justify-content-end gap-3">
-                                    <button type="button" class="chat border borderBlack bg-transparent rounded-circle"><img src="assets/images/message.svg" alt=""></button>
-                                    <button type="button" class="btn bg-transparent w-100">Block</button>
+                                    <button type="button" class="chat border borderBlack bgWhite rounded-circle"><img src="assets/images/message.svg" alt=""></button>
+                                    <button type="button" class="btn  w-100">Block</button>
                                  </div>
                               </td>
                            </tr>

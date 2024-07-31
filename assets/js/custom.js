@@ -1,15 +1,24 @@
 //////TOGGLE-PASSWORD/////////////
-
-$(".toggle-password").click(function() {
-
+$(document).ready(function() {
+  $(".toggle-password").click(function() {
     $(this).toggleClass("active");
-    var input = $($(this).attr("toggle"));
-    if (input.attr("type") == "password") {
+    var input = $($(this).attr("toggle")); 
+    if (input.attr("type") === "password") {
       input.attr("type", "text");
+      $(this).find(".eye").css("display", "block");
+      $(this).find(".eye-slash").css("display", "none");
     } else {
       input.attr("type", "password");
+      $(this).find(".eye").css("display", "none");
+      $(this).find(".eye-slash").css("display", "block");
     }
   });
+  // Initialize: hide the eye icon and show the eye-slash icon
+  $(".toggle-password").each(function() {
+    $(this).find(".eye").css("display", "none");
+    $(this).find(".eye-slash").css("display", "block");
+  });
+});
 
 ////MULTIPLE-IMG-UPLOAD/////////
 

@@ -7,7 +7,7 @@
         </div>      
         <div class="row m-0">
             <div class="col p-0">
-                <div class="box">
+                <div class="box bgWhite">
                     <div class="desc">
                         <h6 class="yellowColor fw-semibold text-uppercase">BASIC</h6>
                         <div class="price mb-2 fw-semibold">
@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col p-0">
-                <div class="box">
+                <div class="box bgWhite">
                     <div class="desc">
                         <h6 class="yellowColor fw-semibold text-uppercase">ADVANCE</h6>
                         <div class="price mb-2 fw-semibold">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="col p-0">
-                <div class="box">
+                <div class="box bgWhite">
                     <div class="desc">
                         <h6 class="yellowColor fw-semibold text-uppercase">PREMIUM</h6>
                         <div class="price mb-2 fw-semibold">
